@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hi there! I am Bartek 😃<br>🔭 Currently focusing on Full Stack Web and Mobile App Development<br>💜 I love trying new things<br>📖 Interested in IoT Technologies<br>🏊🏻‍♂️ Biggest fan of swimming you'd ever seen!
+✨ Hi there! I am Bartek 😃<br>🔭 Currently focusing on Full Stack Web and Mobile App Development<br>💜 I love trying new things<br>📖 Interested in IoT Technologies<br>🏊🏻‍♂️ Biggest fan of swimming you have ever heard of!
 
 
 ## 🌐 Socials:
