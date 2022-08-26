@@ -22,4 +22,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bartekmolka&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bartekmolka&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
