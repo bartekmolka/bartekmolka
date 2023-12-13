@@ -14,4 +14,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-![](https://visitcount.itsvg.in/api?id=bartekmolka&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bartekmolka&icon=5&color=0)](https://visitcount.itsvg.in)
